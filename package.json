@@ -41,5 +41,6 @@
   },
   "versionist": {
     "publishedAt": "2024-06-07T11:51:34.882Z"
-  }
+  },
+  "engine": ">=20 <22"
 }
